@@ -1,3 +1,8 @@
+Forçar a parada do Docker Swarm
+```sh
+docker swarm leave --force
+```
+
 - Iniciar o Swarm na Aplicação Docker
 
 ```sh
